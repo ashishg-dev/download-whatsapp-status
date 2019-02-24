@@ -12,5 +12,7 @@ This project will help you with-</br>
 7 - How to read status(Images/Video) from whatsapp directory.</br>
 <br/>
 <h3>Screenshot of the application</h3><br/>
-<img src="https://github.com/ashishgupta191193/download-whatsapp-status/blob/master/Screenshot_1.jpeg" width="150" heigt="300"/><img src="https://github.com/ashishgupta191193/download-whatsapp-status/blob/master/Screenshot_2.jpeg" width="150" heigt="300"/><br/>
-<img src="https://github.com/ashishgupta191193/download-whatsapp-status/blob/master/Screenshot_3.jpeg" width="150" heigt="300"/><img src="https://github.com/ashishgupta191193/download-whatsapp-status/blob/master/Screenshot_4.jpeg" width="150" heigt="300"/><br/>
+<img src="https://github.com/ashishgupta191193/download-whatsapp-status/blob/master/Screenshot_1.jpeg" width="200" heigt="350"/>
+<img src="https://github.com/ashishgupta191193/download-whatsapp-status/blob/master/Screenshot_2.jpeg" width="200" heigt="350"/><br/>
+<img src="https://github.com/ashishgupta191193/download-whatsapp-status/blob/master/Screenshot_3.jpeg" width="200" heigt="350"/>
+<img src="https://github.com/ashishgupta191193/download-whatsapp-status/blob/master/Screenshot_4.jpeg" width="200" heigt="350"/><br/>
