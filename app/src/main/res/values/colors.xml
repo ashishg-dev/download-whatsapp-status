@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8dc34c</color>
+    <color name="colorPrimaryDark">#689e36</color>
+    <color name="colorAccent">#8dc34c</color>
+    <color name="IconBg">#3e8ff4</color>
+    <color name="UnselectedHeaderTab">#7FEEEEEE</color>
+</resources>
